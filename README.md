@@ -26,6 +26,9 @@ Introdução à declaração de variáveis em C#, cobrindo os tipos primitivos b
 - Formatação de números decimais com `ToString("F2", CultureInfo.InvariantCulture)`, garantindo que o separador decimal seja sempre o ponto (`.`), independente da configuração regional do sistema
 - Concatenação de strings com `Console.WriteLine`
 
+### Calculos
+Introdução à logica de calculos dentro do C#
+
 ## 🛠️ Tecnologias
 
 - C#
