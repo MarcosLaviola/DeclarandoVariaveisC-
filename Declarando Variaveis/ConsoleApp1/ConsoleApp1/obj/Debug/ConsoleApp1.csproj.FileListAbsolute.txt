@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\OneDrive - SENAC - SP\Área de Trabalho\Projetos C#\Declarando Variaveis\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
